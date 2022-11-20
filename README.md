@@ -4,3 +4,7 @@ Repository ini dibuat untuk memenuhi kebutuhan challenge 08 pada kelas Binar Aca
 ## Web Deployment 
 Aplikasi ini di deploy menggunakan [railway.app](railway.app).  
 Link nya adalah sebagai berikut : [https://alviriza-bcr-api-testing.up.railway.app/](https://alviriza-bcr-api-testing.up.railway.app/)  
+
+## Hasil Testing
+Berikut ini adalah hasil testing dari aplikasi ini menggunakan jest dan supertest
+![Test Result](./Test-result.png)
